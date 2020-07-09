@@ -2,6 +2,6 @@
 
 [My Portfolio](https://achinga.netlify.app/)
 
-![image](chrisachingalogo.png)
+![image](chrisachingalogo.jpeg)
 
 JavaScript => Fullstack {Team Work}
