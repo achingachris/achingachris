@@ -1,7 +1,15 @@
-# Chris Achinga
+# Hi, I am Chris Achinga :smile:
 
-[My Portfolio](https://achinga.netlify.app/)
+A self taught hard working developer. Fresh from grad school.
 
-![image](chrisachingalogo.jpeg)
+I am JavaScript web developer and designer
 
-JavaScript => Fullstack {Team Work}
+Actively looking and open for opportunities.
+
+> Anything that can be written in javaScript, will be written in javaScript
+> - A famous developer
+
+
+PS => I just love this image from GitHub-flavored-Markdwon
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
