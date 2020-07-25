@@ -1,5 +1,5 @@
 <div align="center">
-# I'm Chris Achinga :smile:
+I'm Chris Achinga :smile:
 
 I am JavaScript web developer and designer
 
