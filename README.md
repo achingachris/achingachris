@@ -1,9 +1,9 @@
 <div align="center">
-Hi there! I'm Chris Achinga :smile:
+Hello World! 
+  
+this.is Chris Achinga :smile:
 
-I am JavaScript web developer and designer
-
-Actively looking and open for opportunities.
+A full stack developer, major stack is JavaScript and Python (Django). I've got hand on mobile development and data
 
 
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=ChrisAchinga&show_icons=true&theme=monokai)](https://github.com/ChrisAchinga/github-readme-stats)
