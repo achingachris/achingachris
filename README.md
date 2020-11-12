@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-  Junior Developer.
+  The Developer.
 </div>
