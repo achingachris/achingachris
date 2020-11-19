@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-  The Developer(s)
+  The Developer.
 </div>
