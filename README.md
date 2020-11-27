@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-  [My Articles](https://chrisdev.hashnode.dev/)
+  http://chrisachinga.me
 </div>
