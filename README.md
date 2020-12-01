@@ -3,5 +3,5 @@
 </div>
 
 <div align="center">
-  http://chrisachinga.me
+  https://chrisdev-wiki.vercel.app/
 </div>
