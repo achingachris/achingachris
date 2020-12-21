@@ -1,5 +1,4 @@
 <div align="center">
-  <h1>Hello World!</h1>
   
 this.is Chris Achinga :smile:
 
@@ -10,7 +9,6 @@ A full stack developer, major stack is JavaScript and Python (Django). I've got 
 </a>
 
 [![Chris's github stats](https://github-readme-stats.vercel.app/api?username=ChrisAchinga&show_icons=true&theme=monokai)](https://github.com/ChrisAchinga/github-readme-stats)
-
 </div>
 
 
