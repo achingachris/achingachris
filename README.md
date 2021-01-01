@@ -1,14 +1,5 @@
-<div align="center">
-  
-this.is Chris Achinga :smile:
+[Chris Achinga - the Developer](https://linktr.ee/chrisdev)
 
-A full stack developer, major stack is JavaScript and Python (Django). I've got hand on mobile development and data
+PortFolio: chrisachinga.me
 
-<a>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ChrisAchinga&theme=dark&hide=html,dockerfile" alt="francislagares" />
-</a>
-
-[![Chris's github stats](https://github-readme-stats.vercel.app/api?username=ChrisAchinga&show_icons=true&theme=monokai)](https://github.com/ChrisAchinga/github-readme-stats)
-</div>
-
-
+Blog: chrisdev.hashnode.dev
