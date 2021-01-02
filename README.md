@@ -1,5 +1,5 @@
 [Chris Achinga - the Developer](https://linktr.ee/chrisdev)
 
-PortFolio: chrisachinga.me
+PortFolio: https://chrisdev.netlify.app/
 
 Blog: chrisdev.hashnode.dev
