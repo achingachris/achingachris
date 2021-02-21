@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm cHrIs acHINgA</h1>
+<h1 align="center">Hi 👋, I'm Chris Achinga</h1>
 <h3 align="center">A Full Stack Developer & Not A Robot</h3>
 
 <!-- Github trophies -->
