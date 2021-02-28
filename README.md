@@ -1,5 +1,5 @@
 <h1 align="center">Chris Achinga</h1>
-<h3 align="center">A Full Stack Developer & Not A Robot</h3>
+<h3 align="center">A Full Stack Developer & Not A Machine</h3>
 
 <!-- Github trophies -->
 <!-- <p align="center">
