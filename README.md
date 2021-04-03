@@ -1,4 +1,4 @@
-<h1 align="center">chrisdev_code</h1>
+<h1 align="center">chrisAchinga</h1>
 <h3 align="center">A Full Stack Developer & Not A Machine</h3>
 
 <!-- Github trophies -->
