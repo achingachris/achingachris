@@ -1,4 +1,4 @@
-<h1 align="center">chrisdevcode(CdC)</h1>
+<h1 align="center">The Developer Man(CdC)</h1>
 <h3 align="center">A Full Stack Developer & Not A Machine</h3>
 
 <!-- Github trophies -->
