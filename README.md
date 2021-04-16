@@ -8,8 +8,6 @@
     </a>
 </p> -->
 
-<p align="left"> <a href="https://twitter.com/achinga_chris" target="blank"><img src="https://img.shields.io/twitter/follow/achinga_chris?logo=twitter&style=for-the-badge" alt="achinga_chris" /></a> </p>
-
 
 <!-- BLOG-POST-LIST:START -->
 
