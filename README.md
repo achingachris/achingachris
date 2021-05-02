@@ -1,4 +1,4 @@
-<h1 align="center">Chris Achinga.</h1>
+<h1 align="center">Chris Achinga</h1>
 
 
 <br>
