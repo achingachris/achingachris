@@ -1,5 +1,5 @@
 <h1 align="center">
-Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I am Chris Achinga!
+Hi there 👽, I am Chris Achinga!
 </h1>
 
 ![chris-achinga](cover.png)
@@ -15,4 +15,6 @@ Hi there <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/mas
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chrisachinga&" alt="chrisachinga" /></p>
+## Status
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user
