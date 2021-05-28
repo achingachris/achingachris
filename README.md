@@ -11,6 +11,11 @@ Hi there 👽, I am Chris Achinga!
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Deploying A React app on GitHub Pages](https://chrisdevcode.hashnode.dev/github-pages-with-react)
+- [Great Podcasts for Developers](https://chrisdevcode.hashnode.dev/great-podcasts-for-developers)
+- [Git and GitHub SSH Configuration](https://chrisdevcode.hashnode.dev/git-and-github-ssh-configuration)
+- [Getting Started With strapi](https://chrisdevcode.hashnode.dev/getting-started-with-strapi)
+- [5 JavaScript Console Methods you should Know](https://chrisdevcode.hashnode.dev/5-javascript-console-methods-you-should-know)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
