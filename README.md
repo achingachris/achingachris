@@ -11,11 +11,11 @@ Hi there 👽, I am Chris Achinga!
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Create A Layout Component: React](https://chrisdevcode.hashnode.dev/how-to-create-a-layout-component-react)
 - [How To Display JSON data on an HTML page using Vanilla JavaScript](https://chrisdevcode.hashnode.dev/how-to-display-json-data-on-an-html-page-using-vanilla-javascript)
 - [Deploying A React app on GitHub Pages](https://chrisdevcode.hashnode.dev/github-pages-with-react)
 - [Great Podcasts for Developers](https://chrisdevcode.hashnode.dev/great-podcasts-for-developers)
 - [Git and GitHub SSH Configuration](https://chrisdevcode.hashnode.dev/git-and-github-ssh-configuration)
-- [Getting Started With strapi](https://chrisdevcode.hashnode.dev/getting-started-with-strapi)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
