@@ -11,11 +11,11 @@ Hi there 👽, I am Chris Achinga!!!
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Using Markdown In Hashnode: Beginners Guide](https://chrisdevcode.hashnode.dev/using-markdown-in-hashnode-beginners-guide)
 - [10 Developer YouTube Channels You Should Visit](https://chrisdevcode.hashnode.dev/10-developer-youtube-channels-you-should-visit)
 - [Using Postman Like a Pro!](https://chrisdevcode.hashnode.dev/using-postman-like-a-pro)
 - [How To Create A Layout Component: React](https://chrisdevcode.hashnode.dev/how-to-create-a-layout-component-react)
 - [How To Display JSON data on an HTML page using Vanilla JavaScript](https://chrisdevcode.hashnode.dev/how-to-display-json-data-on-an-html-page-using-vanilla-javascript)
-- [Deploying A React app on GitHub Pages](https://chrisdevcode.hashnode.dev/github-pages-with-react)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
