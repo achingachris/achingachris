@@ -1,5 +1,5 @@
 <h1 align="center">
-Hello there 👽, I am Chris Achinga!
+Hi 👽, I am Chris Achinga!
 </h1>
 
 ![chris-achinga](cover.png)
