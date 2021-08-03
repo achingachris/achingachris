@@ -11,11 +11,11 @@ Aliens 👽, I am Chris Achinga!
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Create A Simple API: ExpressJS](https://chrisdevcode.hashnode.dev/how-to-create-a-simple-api-expressjs)
 - [GitHub REST API](https://chrisdevcode.hashnode.dev/github-rest-api)
 - [C#(Dotnet) Setup in Ubuntu with VSCode](https://chrisdevcode.hashnode.dev/cdotnet-setup-in-ubuntu-with-vscode)
 - [GitHub Students Developer Pack](https://chrisdevcode.hashnode.dev/github-students-developer-pack)
 - [Using Hashnode API in a NextJS App](https://chrisdevcode.hashnode.dev/using-hashnode-api-in-a-nextjs-app)
-- [Using Markdown In Hashnode: Beginners Guide](https://chrisdevcode.hashnode.dev/using-markdown-in-hashnode-beginners-guide)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
