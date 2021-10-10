@@ -20,8 +20,4 @@ Aliens 👽, I am Chris Achinga!
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
 
-## Status
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=achingachris&" alt="chrisachinga" /></p>
-
 
