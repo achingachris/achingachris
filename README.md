@@ -6,7 +6,7 @@ Aliens 👽, I am Chris Achinga!
 
 <hr />
 
-![Twitter Follow](https://img.shields.io/twitter/follow/achinga_chris?style=social) | ![GitHub User's stars](https://img.shields.io/github/stars/ChrisAchinga?style=social) | ![GitHub followers](https://img.shields.io/github/followers/ChrisAchinga?style=social) | ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/11450095)
+![Twitter Follow](https://img.shields.io/twitter/follow/achinga_chris?style=social) | ![GitHub User's stars](https://img.shields.io/github/stars/achingachris?style=social) | ![GitHub followers](https://img.shields.io/github/followers/achingachris?style=social) | ![Stack Exchange reputation](https://img.shields.io/stackexchange/stackoverflow/r/11450095)
 
 📘 Latest Blog Articles
 
