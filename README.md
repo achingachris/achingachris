@@ -21,3 +21,6 @@ Aliens 👽, I am Chris Achinga!
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
 
 
+## Spotify - What I'm Listening Now
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cs6w6h23jn0fj3asinfnztn5r&cover_image=true&theme=compact&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
