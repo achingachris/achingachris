@@ -23,4 +23,4 @@ Aliens 👽, I am Chris Ndanyi!
 
 ## Spotify - What I'm Listening Now
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31ttov5rlu4oiurnuxapfy3oudnq&cover_image=true&theme=default&bar_color=53b14f&bar_color_cover=false)](https://github.com/kittinan/spotify-github-profile)
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cs6w6h23jn0fj3asinfnztn5r&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=cs6w6h23jn0fj3asinfnztn5r&redirect=true)
