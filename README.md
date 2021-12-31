@@ -6,7 +6,8 @@ Aliens 👽, I am Chris Ndanyi!
 
 <hr />
 
-![Twitter Follow](https://img.shields.io/twitter/follow/achinga_chris?style=social) | ![GitHub User's stars](https://img.shields.io/github/stars/achingachris?style=social) | ![GitHub followers](https://img.shields.io/github/followers/achingachris?style=social) |
+![Twitter Follow](https://img.shields.io/twitter/follow/achinga_chris?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/achingachris?style=social) ![GitHub followers](https://img.shields.io/github/followers/achingachris?style=social) 
+
 
 📘 Latest Blog Articles
 
@@ -20,6 +21,10 @@ Aliens 👽, I am Chris Ndanyi!
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=achingachris&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 ## Spotify - What I'm Listening Now
 
