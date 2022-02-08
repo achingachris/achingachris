@@ -12,11 +12,11 @@ Aliens 👽, I am Chris Ndanyi!
 📘 Latest Blog Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Install WordPress in Windows](https://chrisdevcode.hashnode.dev/how-to-install-wordpress-in-windows)
 - [Deploying NextJS on Netlify - Starter Template](https://chrisdevcode.hashnode.dev/deploying-nextjs-on-netlify-starter-template)
 - [Quick Data Exploration - Python](https://chrisdevcode.hashnode.dev/quick-data-exploration-python)
 - [Reading Data From Files Using Python](https://chrisdevcode.hashnode.dev/reading-data-from-files-using-python)
 - [Why I Took a Break From Writing.](https://chrisdevcode.hashnode.dev/why-i-took-a-break-from-writing)
-- [Using Bootstrap in NextJS &lpar;No packages needed!&rpar;](https://chrisdevcode.hashnode.dev/using-bootstrap-in-nextjs-no-packages-needed)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
