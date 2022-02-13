@@ -26,6 +26,10 @@ Aliens 👽, I am Chris Ndanyi!
 <!--START_SECTION:waka-->
 <!--END_SECTION:waka-->
 
+## Daily Dev Stats
+
+<a href="https://app.daily.dev/chrisdev"><img src="https://api.daily.dev/devcards/96edb7bca871401aad2d508eadfce72b.png?r=6lx" width="400" alt="ChrisAchinga's Dev Card"/></a>
+
 ## Spotify - What I'm Listening Now
 
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cs6w6h23jn0fj3asinfnztn5r&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=cs6w6h23jn0fj3asinfnztn5r&redirect=true)
