@@ -28,9 +28,7 @@ Aliens 👽, I am Chris Ndanyi!
 
 ## Daily Dev Stats
 
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/achingachris/achingachris/blob/master/devcard.svg" width="400" alt="Chris Achinga's Dev Card"/></a>
-
-<!-- <a href="https://app.daily.dev/chrisdev"><img src="https://api.daily.dev/devcards/96edb7bca871401aad2d508eadfce72b.png?r=6lx" width="400" alt="ChrisAchinga's Dev Card"/></a> -->
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/achingachris/achingachris/blob/master/devcard.svg" width="400" alt="Chris Dev Card"/></a>
 
 ## Spotify - What I'm Listening Now
 
