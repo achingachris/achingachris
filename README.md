@@ -2,7 +2,7 @@
 Aliens 👽, I am Chris Ndanyi!
 </h1>
 
-![chris-achinga](cover.png)
+![chris-achinga](cover_1.png)
 
 <hr />
 
