@@ -1,5 +1,5 @@
 <h1 align="center">
-Aliens 👽, I am Chris the Human!
+Aliens 👽, I am Chris the Human! 
 </h1>
 
 ![chris-achinga](cover_1.png)
@@ -9,7 +9,7 @@ Aliens 👽, I am Chris the Human!
 ![Twitter Follow](https://img.shields.io/twitter/follow/achinga_chris?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/achingachris?style=social) ![GitHub followers](https://img.shields.io/github/followers/achingachris?style=social) 
 
 
-📘 Latest Blog Articles
+📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
 - [How To Create a Payment Form on WordPress using Flutterwave](https://chrisdevcode.hashnode.dev/how-to-create-a-payment-form-on-wordpress-using-flutterwave)
