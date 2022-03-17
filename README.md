@@ -21,15 +21,3 @@ Aliens 👽, I am Chris the Human!
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=achingachris&theme=github-dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<!--START_SECTION:waka-->
-<!--END_SECTION:waka-->
-
-## Daily Dev Stats
-
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/achingachris/achingachris/blob/master/devcard.svg" width="400" alt="Chris Dev Card"/></a>
-
-## Spotify - What I'm Listening Now
-
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cs6w6h23jn0fj3asinfnztn5r&cover_image=true&theme=default)](https://spotify-github-profile.vercel.app/api/view?uid=cs6w6h23jn0fj3asinfnztn5r&redirect=true)
