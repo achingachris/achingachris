@@ -11,11 +11,11 @@ Aliens 👽, I am Chris the Human!
 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How To Create A Layout Component: React](https://chrisdevcode.hashnode.dev/how-to-create-a-layout-component-react)
 - [How To Create a Payment Form on WordPress using Flutterwave](https://chrisdevcode.hashnode.dev/how-to-create-a-payment-form-on-wordpress-using-flutterwave)
 - [How To Install WordPress in Windows](https://chrisdevcode.hashnode.dev/how-to-install-wordpress-in-windows)
 - [Deploying NextJS on Netlify - Starter Template](https://chrisdevcode.hashnode.dev/deploying-nextjs-on-netlify-starter-template)
 - [Quick Data Exploration - Python](https://chrisdevcode.hashnode.dev/quick-data-exploration-python)
-- [Reading Data From Files Using Python](https://chrisdevcode.hashnode.dev/reading-data-from-files-using-python)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
