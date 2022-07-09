@@ -11,11 +11,11 @@ Aliens 👽, I am Chris the Human!
 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [State Management in React](https://chrisdevcode.hashnode.dev/state-management-in-react)
 - [How to add Cloudinary to Strapi CMS for Image/Video uploads](https://chrisdevcode.hashnode.dev/how-to-add-cloudinary-to-strapi-cms-for-imagevideo-uploads)
 - [How to set up Rust and NEAR for Blockchain/Web3 Development](https://chrisdevcode.hashnode.dev/how-to-set-up-rust-and-near-for-blockchainweb3-development)
 - [How To Create A Layout Component: React](https://chrisdevcode.hashnode.dev/how-to-create-a-layout-component-react)
 - [How To Create a Payment Form on WordPress using Flutterwave](https://chrisdevcode.hashnode.dev/how-to-create-a-payment-form-on-wordpress-using-flutterwave)
-- [How To Install WordPress in Windows](https://chrisdevcode.hashnode.dev/how-to-install-wordpress-in-windows)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
