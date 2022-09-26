@@ -11,11 +11,11 @@ Aliens 👽, I am Chris the Human!
 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to fetch and Add Data in React from an API](https://chrisdevcode.hashnode.dev/how-to-fetch-and-add-data-in-react-from-an-api)
 - [Creating A Weather Search App in Vanilla JavaScript](https://chrisdevcode.hashnode.dev/creating-a-weather-search-app-in-vanilla-javascript)
 - [Using JavaScript in JupyterLab](https://chrisdevcode.hashnode.dev/using-javascript-in-jupyterlab)
 - [Adding Forms To Static Websites Using FabForm](https://chrisdevcode.hashnode.dev/adding-forms-to-static-websites-using-fabform)
 - [State Management in React](https://chrisdevcode.hashnode.dev/state-management-in-react)
-- [How to add Cloudinary to Strapi CMS for Image/Video uploads](https://chrisdevcode.hashnode.dev/how-to-add-cloudinary-to-strapi-cms-for-imagevideo-uploads)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
