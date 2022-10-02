@@ -1,5 +1,5 @@
 <h1 align="center">
-Aliens 👽, I is Chris, Human! 
+Aliens 👽, I is Chris, Human! #HacktoberFest
 </h1>
 
 ![chris-achinga](cover_1.png)
