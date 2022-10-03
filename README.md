@@ -2,7 +2,7 @@
 Aliens 👽, I is Chris, Human! #HacktoberFest
 </h1>
 
-![chris-achinga](cover_1.png)
+![chris-achinga](cover.png)
 
 <hr />
 
