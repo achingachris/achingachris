@@ -19,3 +19,9 @@ Aliens 👽, I is Chris, Human! #HacktoberFest
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
+
+
+<!-- Wakatime stats -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
