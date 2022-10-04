@@ -24,4 +24,18 @@ Aliens 👽, I is Chris, Human! #HacktoberFest
 <!-- Wakatime stats -->
 
 <!--START_SECTION:waka-->
+
+```text
+From: 26 May 2021 - To: 03 October 2022
+
+Total Time: 477 hrs 54 mins
+
+JavaScript       248 hrs 37 mins >>>>>>>>>>>>>------------   52.02 %
+HTML             64 hrs 4 mins   >>>----------------------   13.41 %
+Markdown         40 hrs 54 mins  >>-----------------------   08.56 %
+Python           34 hrs 1 min    >>-----------------------   07.12 %
+JSON             23 hrs 57 mins  >------------------------   05.01 %
+C#               13 hrs 36 mins  >------------------------   02.85 %
+```
+
 <!--END_SECTION:waka-->
