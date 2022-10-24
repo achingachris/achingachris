@@ -39,3 +39,6 @@ C#               13 hrs 36 mins  >------------------------   02.68 %
 ```
 
 <!--END_SECTION:waka-->
+
+
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cs6w6h23jn0fj3asinfnztn5r&cover_image=true&theme=novatorem&show_offline=true&bar_color=177514&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=cs6w6h23jn0fj3asinfnztn5r&redirect=true)
