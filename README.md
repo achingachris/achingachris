@@ -11,11 +11,11 @@ Aliens 👽, I is Chris, Human! #HacktoberFest
 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [How to Test APIs on Mobile using API Tester](https://chrisdevcode.hashnode.dev/how-to-test-apis-on-mobile-using-api-tester)
 - [How to configure Bootstrap SCSS and JS into a NextJS Project](https://chrisdevcode.hashnode.dev/how-to-configure-bootstrap-scss-and-js-into-a-nextjs-project)
 - [How To Create and Deploy a json-server](https://chrisdevcode.hashnode.dev/how-to-create-and-deploy-a-json-server)
 - [How to fetch and Add Data in React from an API](https://chrisdevcode.hashnode.dev/how-to-fetch-and-add-data-in-react-from-an-api)
 - [Creating A Weather Search App in Vanilla JavaScript](https://chrisdevcode.hashnode.dev/creating-a-weather-search-app-in-vanilla-javascript)
-- [Using JavaScript in JupyterLab](https://chrisdevcode.hashnode.dev/using-javascript-in-jupyterlab)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
