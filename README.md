@@ -26,15 +26,15 @@ Aliens 👽, I is Chris, Human! #HacktoberFest
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 May 2021 - To: 30 November 2022
+From: 26 May 2021 - To: 01 December 2022
 
-Total Time: 557 hrs 23 mins
+Total Time: 558 hrs 43 mins
 
-JavaScript       296 hrs 51 mins >>>>>>>>>>>>>------------   53.26 %
-HTML             70 hrs          >>>----------------------   12.56 %
-Markdown         46 hrs 43 mins  >>-----------------------   08.38 %
-Python           35 hrs 32 mins  >>-----------------------   06.38 %
-JSON             31 hrs 4 mins   >------------------------   05.58 %
+JavaScript       296 hrs 51 mins >>>>>>>>>>>>>------------   53.13 %
+HTML             70 hrs          >>>----------------------   12.53 %
+Markdown         46 hrs 56 mins  >>-----------------------   08.40 %
+Python           35 hrs 32 mins  >>-----------------------   06.36 %
+JSON             31 hrs 4 mins   >------------------------   05.56 %
 C#               13 hrs 36 mins  >------------------------   02.44 %
 ```
 
