@@ -26,7 +26,7 @@ Aliens 👽, I is Chris, Human! #HacktoberFest
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 May 2021 - To: 06 December 2022
+From: 26 May 2021 - To: 07 December 2022
 
 Total Time: 562 hrs 24 mins
 
