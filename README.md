@@ -43,8 +43,6 @@ CSS              14 hrs 3 mins   >------------------------   02.45 %
 [![](https://visitcount.itsvg.in/api?id=achingachris&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cs6w6h23jn0fj3asinfnztn5r&cover_image=true&theme=novatorem&show_offline=true&bar_color=177514&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=cs6w6h23jn0fj3asinfnztn5r&redirect=true)
-
 
 <!-- GitHub Readme Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=achingachris)](https://git.io/streak-stats)
