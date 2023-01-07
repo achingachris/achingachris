@@ -26,16 +26,16 @@ Aliens 👽, It is Chris
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 May 2021 - To: 04 January 2023
+From: 26 May 2021 - To: 05 January 2023
 
-Total Time: 577 hrs 43 mins
+Total Time: 581 hrs 16 mins
 
-JavaScript       309 hrs 15 mins >>>>>>>>>>>>>------------   53.53 %
-HTML             72 hrs 19 mins  >>>----------------------   12.52 %
-Markdown         47 hrs 23 mins  >>-----------------------   08.20 %
-Python           35 hrs 41 mins  >>-----------------------   06.18 %
-JSON             31 hrs 41 mins  >------------------------   05.48 %
-CSS              14 hrs 10 mins  >------------------------   02.45 %
+JavaScript       310 hrs 23 mins >>>>>>>>>>>>>------------   53.40 %
+HTML             74 hrs 33 mins  >>>----------------------   12.83 %
+Markdown         47 hrs 23 mins  >>-----------------------   08.15 %
+Python           35 hrs 41 mins  >>-----------------------   06.14 %
+JSON             31 hrs 41 mins  >------------------------   05.45 %
+CSS              14 hrs 17 mins  >------------------------   02.46 %
 ```
 
 <!--END_SECTION:waka-->
