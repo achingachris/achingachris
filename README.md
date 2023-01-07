@@ -1,5 +1,5 @@
 <h1 align="center">
-Aliens 👽, It is Chris
+It is Chris
 </h1>
 
 ![chris-achinga](cover.png)
