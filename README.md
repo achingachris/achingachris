@@ -1,5 +1,5 @@
 <h1 align="center">
-It is Chris
+Chris Achinga, Fullstack React, Node, Ruby on Rails && Technical Writer
 </h1>
 
 ![chris-achinga](cover.png)
