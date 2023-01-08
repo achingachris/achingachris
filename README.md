@@ -26,7 +26,7 @@ It is Chris
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 May 2021 - To: 05 January 2023
+From: 26 May 2021 - To: 06 January 2023
 
 Total Time: 581 hrs 16 mins
 
