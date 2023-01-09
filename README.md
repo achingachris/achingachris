@@ -1,5 +1,6 @@
 <h1 align="center">
-Chris Achinga, Fullstack React, Node, Ruby on Rails && Technical Writer
+Chris Achinga, <br />
+  Fullstack React, Node, Ruby on Rails && Technical Writer
 </h1>
 
 ![chris-achinga](cover.png)
