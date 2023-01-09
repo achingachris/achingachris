@@ -26,16 +26,16 @@ Chris Achinga, Fullstack React, Node, Ruby on Rails && Technical Writer
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 May 2021 - To: 06 January 2023
+From: 26 May 2021 - To: 07 January 2023
 
-Total Time: 581 hrs 16 mins
+Total Time: 581 hrs 58 mins
 
-JavaScript       310 hrs 23 mins >>>>>>>>>>>>>------------   53.40 %
-HTML             74 hrs 33 mins  >>>----------------------   12.83 %
-Markdown         47 hrs 23 mins  >>-----------------------   08.15 %
-Python           35 hrs 41 mins  >>-----------------------   06.14 %
-JSON             31 hrs 41 mins  >------------------------   05.45 %
-CSS              14 hrs 17 mins  >------------------------   02.46 %
+JavaScript       310 hrs 23 mins >>>>>>>>>>>>>------------   53.33 %
+HTML             75 hrs 15 mins  >>>----------------------   12.93 %
+Markdown         47 hrs 23 mins  >>-----------------------   08.14 %
+Python           35 hrs 41 mins  >>-----------------------   06.13 %
+JSON             31 hrs 41 mins  >------------------------   05.44 %
+CSS              14 hrs 17 mins  >------------------------   02.45 %
 ```
 
 <!--END_SECTION:waka-->
