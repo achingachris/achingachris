@@ -1,5 +1,5 @@
 <h1 align="center">
-Aliens 👽, It is Chris
+Aliens 👽, It is Chris Achinga
 </h1>
 
 ![chris-achinga](cover.png)
@@ -44,5 +44,5 @@ CSS              14 hrs 3 mins   >------------------------   02.45 %
 
 
 
-<!-- GitHub Readme Stats -->
+<!-- GitHub Streaks Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=achingachris)](https://git.io/streak-stats)
