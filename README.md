@@ -13,7 +13,6 @@ Chris Achinga,
 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
-
 - [Developer Communities In Kenya](https://chrisdevcode.hashnode.dev/developer-communities-in-kenya)
 - [My 2022: Setting my Pace!](https://chrisdevcode.hashnode.dev/my-2022-setting-my-pace)
 - [How to Test APIs on Mobile using API Tester](https://chrisdevcode.hashnode.dev/how-to-test-apis-on-mobile-using-api-tester)
