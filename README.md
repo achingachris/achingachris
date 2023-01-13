@@ -1,5 +1,6 @@
 <h1 align="center">
-Chris Achinga, <br />
+Chris Achinga, 
+<br />
   Fullstack React, Node, Ruby on Rails && Technical Writer!
 </h1>
 
@@ -12,6 +13,7 @@ Chris Achinga, <br />
 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+
 - [Developer Communities In Kenya](https://chrisdevcode.hashnode.dev/developer-communities-in-kenya)
 - [My 2022: Setting my Pace!](https://chrisdevcode.hashnode.dev/my-2022-setting-my-pace)
 - [How to Test APIs on Mobile using API Tester](https://chrisdevcode.hashnode.dev/how-to-test-apis-on-mobile-using-api-tester)
@@ -20,7 +22,6 @@ Chris Achinga, <br />
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
-
 
 <!-- Wakatime stats -->
 
@@ -43,7 +44,6 @@ CSS              14 hrs 17 mins  >------------------------   02.45 %
 
 [![](https://visitcount.itsvg.in/api?id=achingachris&label=Profile%20Views&icon=1&pretty=true)](https://visitcount.itsvg.in)
 
-
-
 <!-- GitHub Streaks Stats -->
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=achingachris)](https://git.io/streak-stats)
