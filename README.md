@@ -1,5 +1,6 @@
 <h1 align="center">
-Aliens 👽, It is Chris Achinga
+Chris Achinga, <br />
+  Fullstack React, Node, Ruby on Rails && Technical Writer
 </h1>
 
 ![chris-achinga](cover.png)
@@ -11,11 +12,11 @@ Aliens 👽, It is Chris Achinga
 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Developer Communities In Kenya](https://chrisdevcode.hashnode.dev/developer-communities-in-kenya)
+- [My 2022: Setting my Pace!](https://chrisdevcode.hashnode.dev/my-2022-setting-my-pace)
 - [How to Test APIs on Mobile using API Tester](https://chrisdevcode.hashnode.dev/how-to-test-apis-on-mobile-using-api-tester)
 - [How to configure Bootstrap SCSS and JS into a NextJS Project](https://chrisdevcode.hashnode.dev/how-to-configure-bootstrap-scss-and-js-into-a-nextjs-project)
 - [How To Create and Deploy a json-server](https://chrisdevcode.hashnode.dev/how-to-create-and-deploy-a-json-server)
-- [How to fetch and Add Data in React from an API](https://chrisdevcode.hashnode.dev/how-to-fetch-and-add-data-in-react-from-an-api)
-- [Creating A Weather Search App in Vanilla JavaScript](https://chrisdevcode.hashnode.dev/creating-a-weather-search-app-in-vanilla-javascript)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
@@ -26,16 +27,16 @@ Aliens 👽, It is Chris Achinga
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 May 2021 - To: 29 December 2022
+From: 26 May 2021 - To: 11 January 2023
 
-Total Time: 574 hrs 22 mins
+Total Time: 583 hrs 47 mins
 
-JavaScript       308 hrs 2 mins  >>>>>>>>>>>>>------------   53.63 %
-HTML             71 hrs 4 mins   >>>----------------------   12.37 %
-Markdown         47 hrs 3 mins   >>-----------------------   08.19 %
-Python           35 hrs 41 mins  >>-----------------------   06.21 %
-JSON             31 hrs 31 mins  >------------------------   05.49 %
-CSS              14 hrs 3 mins   >------------------------   02.45 %
+JavaScript       310 hrs 54 mins >>>>>>>>>>>>>------------   53.26 %
+HTML             75 hrs 33 mins  >>>----------------------   12.94 %
+Markdown         47 hrs 37 mins  >>-----------------------   08.16 %
+Python           35 hrs 41 mins  >>-----------------------   06.11 %
+JSON             32 hrs          >------------------------   05.48 %
+CSS              14 hrs 17 mins  >------------------------   02.45 %
 ```
 
 <!--END_SECTION:waka-->
