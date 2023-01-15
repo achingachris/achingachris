@@ -1,5 +1,5 @@
 <h1 align="center">
-Chris Achinga, 
+Chris Achinga, #365DaysOfCode
 </h1>
 
 ![chris-achinga](cover.png)
