@@ -25,16 +25,16 @@ Chris Achinga => #365DaysOfCode
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 May 2021 - To: 20 January 2023
+From: 26 May 2021 - To: 21 January 2023
 
-Total Time: 585 hrs 20 mins
+Total Time: 586 hrs 42 mins
 
-JavaScript       310 hrs 58 mins >>>>>>>>>>>>>------------   53.13 %
-HTML             75 hrs 54 mins  >>>----------------------   12.97 %
-Markdown         48 hrs 15 mins  >>-----------------------   08.25 %
-Python           35 hrs 41 mins  >>-----------------------   06.10 %
-JSON             32 hrs 4 mins   >------------------------   05.48 %
-CSS              14 hrs 17 mins  >------------------------   02.44 %
+JavaScript       311 hrs 37 mins >>>>>>>>>>>>>------------   53.11 %
+HTML             76 hrs 9 mins   >>>----------------------   12.98 %
+Markdown         48 hrs 16 mins  >>-----------------------   08.23 %
+Python           35 hrs 41 mins  >>-----------------------   06.08 %
+JSON             32 hrs 33 mins  >------------------------   05.55 %
+CSS              14 hrs 17 mins  >------------------------   02.43 %
 ```
 
 <!--END_SECTION:waka-->
