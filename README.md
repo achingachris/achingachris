@@ -25,7 +25,7 @@ Chris Achinga => #365DaysOfCode
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 May 2021 - To: 22 January 2023
+From: 26 May 2021 - To: 23 January 2023
 
 Total Time: 586 hrs 43 mins
 
