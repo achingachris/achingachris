@@ -11,11 +11,11 @@ Chris Achinga => #365DaysOfCode
 📘 Latest Blog Posts
 
 <!-- BLOG-POST-LIST:START -->
+- [Unlocking the Power of Headless CMS for Seamless Content Delivery](https://chrisdevcode.hashnode.dev/unlocking-the-power-of-headless-cms-for-seamless-content-delivery)
 - [Developer Communities In Kenya](https://chrisdevcode.hashnode.dev/developer-communities-in-kenya)
 - [My 2022: Setting my Pace!](https://chrisdevcode.hashnode.dev/my-2022-setting-my-pace)
 - [How to Test APIs on Mobile using API Tester](https://chrisdevcode.hashnode.dev/how-to-test-apis-on-mobile-using-api-tester)
 - [How to configure Bootstrap SCSS and JS into a NextJS Project](https://chrisdevcode.hashnode.dev/how-to-configure-bootstrap-scss-and-js-into-a-nextjs-project)
-- [How To Create and Deploy a json-server](https://chrisdevcode.hashnode.dev/how-to-create-and-deploy-a-json-server)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
