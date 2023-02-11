@@ -25,16 +25,16 @@ Chris Achinga
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 May 2021 - To: 08 February 2023
+From: 26 May 2021 - To: 09 February 2023
 
-Total Time: 615 hrs 4 mins
+Total Time: 618 hrs 23 mins
 
-JavaScript       319 hrs 52 mins >>>>>>>>>>>>>------------   52.01 %
-HTML             77 hrs 59 mins  >>>----------------------   12.68 %
-Markdown         48 hrs 36 mins  >>-----------------------   07.90 %
-Python           35 hrs 43 mins  >------------------------   05.81 %
-JSON             33 hrs 9 mins   >------------------------   05.39 %
-CSS              14 hrs 41 mins  >------------------------   02.39 %
+JavaScript       321 hrs 16 mins >>>>>>>>>>>>>------------   51.95 %
+HTML             78 hrs 5 mins   >>>----------------------   12.63 %
+Markdown         48 hrs 36 mins  >>-----------------------   07.86 %
+Python           35 hrs 43 mins  >------------------------   05.78 %
+JSON             33 hrs 22 mins  >------------------------   05.40 %
+CSS              14 hrs 41 mins  >------------------------   02.38 %
 ```
 
 <!--END_SECTION:waka-->
