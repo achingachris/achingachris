@@ -45,9 +45,10 @@ PHP              18 hrs 5 mins   >------------------------   02.81 %
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=achingachris)](https://git.io/streak-stats)
 
-
+<!--
 [![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=cs6w6h23jn0fj3asinfnztn5r&cover_image=true&theme=novatorem&show_offline=true&bar_color=177514&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=cs6w6h23jn0fj3asinfnztn5r&redirect=true)
+-->
 
 <h5 align="center">
-the codeFather
+the codeFather | 2023
 </h5>
