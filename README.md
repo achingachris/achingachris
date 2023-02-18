@@ -8,7 +8,7 @@ Chris Achinga
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/achinga_chris?style=social) ![GitHub User's stars](https://img.shields.io/github/stars/achingachris?style=social) ![GitHub followers](https://img.shields.io/github/followers/achingachris?style=social)
 
-📘 Latest Blog Posts
+📘 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
 - [Unlocking the Power of Headless CMS for Seamless Content Delivery](https://chrisdevcode.hashnode.dev/unlocking-the-power-of-headless-cms-for-seamless-content-delivery)
