@@ -25,7 +25,7 @@ Chris Achinga
 <!--START_SECTION:waka-->
 
 ```text
-From: 26 May 2021 - To: 18 February 2023
+From: 26 May 2021 - To: 19 February 2023
 
 Total Time: 644 hrs 47 mins
 
