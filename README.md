@@ -11,11 +11,11 @@ Chris Achinga
 📘 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Building a Weather and Time Telegram Bot using Node.js](https://chrisdevcode.hashnode.dev/building-a-weather-and-time-telegram-bot-using-nodejs)
 - [Using MongoDB in a NodeJS Project](https://chrisdevcode.hashnode.dev/using-mongodb-in-a-nodejs-project)
 - [Building Scalable, Secure, and Feature-Rich Apps with Appwrite: A Technical Overview](https://chrisdevcode.hashnode.dev/building-scalable-secure-and-feature-rich-apps-with-appwrite-a-technical-overview)
 - [Building a GraphQL API with NodeJS: A Step-by-Step Guide](https://chrisdevcode.hashnode.dev/building-a-graphql-api-with-nodejs-a-step-by-step-guide)
 - [How To Convert HTML templates to NextJS &lpar;v13&rpar;](https://chrisdevcode.hashnode.dev/how-to-convert-html-templates-to-nextjs-v13)
-- [Unlocking the Power of Headless CMS for Seamless Content Delivery](https://chrisdevcode.hashnode.dev/unlocking-the-power-of-headless-cms-for-seamless-content-delivery)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
