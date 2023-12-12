@@ -11,11 +11,11 @@ Chris Achinga
 📘 Latest Technical Articles
 
 <!-- BLOG-POST-LIST:START -->
+- [Building Progressive Web Apps in Angular &lpar;using pwafire&rpar;](https://chrisdevcode.hashnode.dev/building-progressive-web-apps-in-angular-using-pwafire)
 - [Setting Up a Django Project](https://chrisdevcode.hashnode.dev/setting-up-a-django-project)
 - [Into PWA: Creating an installable Next.Js Application](https://chrisdevcode.hashnode.dev/into-pwa-creating-an-installable-nextjs-application)
 - [How to Fetch Data from an API in Angular](https://chrisdevcode.hashnode.dev/how-to-fetch-data-from-an-api-in-angular)
 - [Deploying A Django Project on PythonAnywhere](https://chrisdevcode.hashnode.dev/deploying-a-django-project-on-pythonanywhere)
-- [Building a Weather and Time Telegram Bot using Node.js](https://chrisdevcode.hashnode.dev/building-a-weather-and-time-telegram-bot-using-nodejs)
 <!-- BLOG-POST-LIST:END -->
 
 ▶ [...more blog articles](https://chrisdevcode.hashnode.dev/)
